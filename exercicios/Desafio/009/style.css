@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body {
+    background-color: #181818;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    height: 300px;
+    width: 425px;
+    margin: 100px auto;
+}
+
+div#segundo {
+    height: 500px;
+    width: 562px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: darkgrey;
+    font-weight: bold;
+}
+
+a#l1 {
+    margin: 200px;
+}
+
