@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://robsoncaliban.github.io/html-css/exercicios/pacote-projeto-d010/android-site.html"> Executar site android </a>
+<a href="https://robsoncaliban.github.io/html-css/exercicios/pacote-projeto-d010/android-site.html" target="_blank"> Executar site android </a>
